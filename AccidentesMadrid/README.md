@@ -1,4 +1,5 @@
 El programa consiste de un modelo Accidente para utilizar datos de los CSV. Para ello se hará uso del mapper, que mapea directamente del CSV al modelo Accidente.  
+
 El repositorio solo tiene la función de traer todos los datos de los CSV a una lista mapeándolos en el proceso.  
 En las consultas de LINQ se hace uso de PLINQ cuando su overhead no resultará en una pérdida de rendimiento. Se ha estimado debido a la cantidad de registros que se manejan que todas las consultas con operaciones más complejas como GroupBy deberán usar PLINQ ya que reportará mejor
 rendimiento, en cambio en consultas más simple no, ya que resultará en lo contrario.  
