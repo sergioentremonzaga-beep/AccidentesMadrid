@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRTuNp5kEgA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skyra\\RiderProjects\\AccidentesMadrid\\AccidentesMadrid.Tests\\AccidentesMadrid.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skyra\\.nuget\\packages\\apache.arrow\\14.0.2\\apache.arrow.14.0.2.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\fluentassertions\\8.11.0\\fluentassertions.8.11.0.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.codecoverage\\18.10.1\\microsoft.codecoverage.18.10.1.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.data.analysis\\0.23.0\\microsoft.data.analysis.0.23.0.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.ml.dataview\\5.0.0\\microsoft.ml.dataview.5.0.0.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.net.test.sdk\\18.10.1\\microsoft.net.test.sdk.18.10.1.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\2.3.3\\microsoft.testing.extensions.telemetry.2.3.3.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\2.3.3\\microsoft.testing.extensions.trxreport.abstractions.2.3.3.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\2.3.3\\microsoft.testing.extensions.vstestbridge.2.3.3.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.testing.platform\\2.3.3\\microsoft.testing.platform.2.3.3.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.testing.platform.msbuild\\2.3.3\\microsoft.testing.platform.msbuild.2.3.3.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.testplatform.objectmodel\\18.10.1\\microsoft.testplatform.objectmodel.18.10.1.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\microsoft.testplatform.testhost\\18.10.1\\microsoft.testplatform.testhost.18.10.1.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\nunit\\4.6.1\\nunit.4.6.1.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\nunit.analyzers\\4.7.0\\nunit.analyzers.4.7.0.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\nunit3testadapter\\6.3.0\\nunit3testadapter.6.3.0.nupkg.sha512",
+    "C:\\Users\\skyra\\.nuget\\packages\\system.numerics.tensors\\9.0.4\\system.numerics.tensors.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

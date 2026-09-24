@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="CsvHelper" Version="33.1.0" />
+      <PackageReference Include="FluentAssertions" Version="8.11.0" />
+      <PackageReference Include="Microsoft.Data.Analysis" Version="0.23.0" />
+      <PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.10.1" />
+      <PackageReference Include="NUnit" Version="4.6.1" />
+      <PackageReference Include="NUnit3TestAdapter" Version="6.3.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="data\300228-1-accidentes-trafico-detalle-csv.csv">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="data\300228-2-accidentes-trafico-detalle-csv.csv">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="data\300228-34-accidentes-trafico-detalle.csv">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+</Project>
